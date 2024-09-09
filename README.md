@@ -49,3 +49,6 @@ This is a brief tutorial on how to use the libraries with your server
 * Tools
 * Vapes
 * Weapons
+
+> [!CAUTION]
+> The names of .pngs in the library can change without warning. File naming is based on my system. Best practice is to save a copy of the library on you desktop. IF an images gets updated it will be indicated in the changelog notes.
