@@ -16,13 +16,9 @@ This is a brief tutorial on how to use the libraries with your server
 * If there is an image update, you can decide if you want to replace the old image by dragging a copy into your server image folder or script location and renaming it.
 <br/>
 
-## BRIEF DESCRIPTION OF CURRENT ICON LIBRARY PROJECT ASSETS
-<br/>
-<br/>
-
 <img align="left" width="72" src="https://github.com/user-attachments/assets/d599d702-8cdf-4de0-824d-fe4d852cb1f0"/>
 
-# FIVEM - 2 VERSIONS
+# FIVEM LIBRARY RESOURCE - 2 VERSIONS
 <br/>
 
 **FiveM** - All images are separated into folders for easy searching. look in the most likely folder associated to the image you're looking for.<br/>
