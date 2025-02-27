@@ -3,7 +3,7 @@
 
 ## How to use The Icon Library Project Resource
 
-This is a brief tutorial on how to use the libraries with your server
+This is a brief tutorial on how to use the libraries with your server. This Library is free to use and is added to frequently. If you would like to use for creating scripts for use with RedM, I would be thankful for a link back to this repository.
 
 1. Download the library of your choice and keep it in a separate area on your computer. You will replace this folder every time that library is updated.
 2. Add the image you want to use to your server image folder OR the script folder if that is where the image files you wish to replace are located.
