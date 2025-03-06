@@ -1,6 +1,9 @@
 ![libraryiconxsm](https://github.com/user-attachments/assets/31390ce3-d122-40fe-b69d-2b23c22cd500)
 # LIBRARY GUIDE
 
+> [!NOTE] 
+> This library will no longer be added to as it has been moved to Tebex. For future updates please visit TILP Discord.
+
 ## How to use The Icon Library Project Resource
 
 This is a brief tutorial on how to use the libraries with your server. This Library is free to use and is added to frequently. If you would like to use for creating scripts for use with RedM, I would be thankful for a link back to this repository.
